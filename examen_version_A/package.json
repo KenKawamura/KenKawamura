@@ -1,0 +1,9 @@
+{
+  "name": "des210-2do-parcial",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DES210 - 2do Examen Parcial - Proyecto base",
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
